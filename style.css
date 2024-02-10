@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-image: url(170526426430733839.png);
+    background-repeat: repeat;
+    background-size: 40px;
+    color: rgb(255, 255, 255);
+}
+button{
+    font-size: 45px;
+    width: 200px;
+    border-radius: 10px;
+}
+#right{
+    width: 30%;
+    float: right;
+    height: 480px;
+    display:flex;
+    flex-direction: column;
+    align-items:self-start;
+    justify-content: center;
+}
+#left{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-left: 80px;
+}
